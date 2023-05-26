@@ -3,7 +3,7 @@
 # Horiseon_hw_challenge
 
 ## Description
-This project aims to optimize the codebase of a marketing agency's website to follow accessibility standards and improve search engine optimization. By implementing semantic HTML elements, logical structure, accessible alt attributes for icons and images, sequential heading attributes, and a concise, descriptive title element, the website will be enhanced for better usability and discoverability.
+This project focuses on improving a marketing agency's website by making it more accessible and search engine-friendly. The goal is to enhance the website's usability and visibility. This will be achieved by using proper HTML elements, organizing the code in a logical structure, providing descriptive alt attributes for icons and images, ensuring headings are in the correct order, and creating a clear and concise title. These enhancements will optimize the website for a better user experience and improved discoverability.
 
 
 ## Installation
