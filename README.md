@@ -6,6 +6,7 @@
 This project focuses on improving a marketing agency's website by making it more accessible and search engine-friendly. The goal is to enhance the website's usability and visibility. This will be achieved by using proper HTML elements, organizing the code in a logical structure, providing descriptive alt attributes for icons and images, ensuring headings are in the correct order, and creating a clear and concise title. These enhancements will optimize the website for a better user experience and improved discoverability.
 
 ![website screenshot](./assets/images/01-html-css-git-homework-demo.png)
+URL: https://mkyrene.github.io/horiseon_hw_challenge/
 ## Installation
 1. Clone the repository: `git clone https://github.com/MKYRENE/horiseon_hw_challenge
 2. Open the project directory in your code editor.
